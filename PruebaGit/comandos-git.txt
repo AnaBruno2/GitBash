@@ -1,0 +1,17 @@
+clonar proyecto:
+$ git clone url-del-proyecto
+
+descargar cambios de colaboradores:
+$ git pull origin master
+
+Revisar el estado de los archivos (aparecen en rojo o verde):
+$ git status
+
+Agregar los cambios:
+$ git add .
+
+Crear el commit:
+$ git commit -m “commit01”
+
+Mandarlo al repositorio de Github:
+$ git push -u origin master
