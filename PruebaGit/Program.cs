@@ -9,7 +9,8 @@ namespace PruebaGit
     {
         static void Main(string[] args)
         {
-            Cambios
+            Console.WriteLine("prueba git");
+            Console.Read();
         }
     }
 }

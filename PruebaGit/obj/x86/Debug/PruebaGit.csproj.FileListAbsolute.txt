@@ -3,3 +3,7 @@ c:\users\admin\documents\visual studio 2010\Projects\GitBash\PruebaGit\bin\Debug
 c:\users\admin\documents\visual studio 2010\Projects\GitBash\PruebaGit\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2010\Projects\GitBash\PruebaGit\obj\x86\Debug\PruebaGit.exe
 c:\users\admin\documents\visual studio 2010\Projects\GitBash\PruebaGit\obj\x86\Debug\PruebaGit.pdb
+C:\Users\CARLOS\Documents\F I\2021\LPOO1-Laboratorio de Programacion Orientada a Objetos 1\prueba Git\GitBash\PruebaGit\obj\x86\Debug\PruebaGit.exe
+C:\Users\CARLOS\Documents\F I\2021\LPOO1-Laboratorio de Programacion Orientada a Objetos 1\prueba Git\GitBash\PruebaGit\obj\x86\Debug\PruebaGit.pdb
+C:\Users\CARLOS\Documents\F I\2021\LPOO1-Laboratorio de Programacion Orientada a Objetos 1\prueba Git\GitBash\PruebaGit\bin\Debug\PruebaGit.exe
+C:\Users\CARLOS\Documents\F I\2021\LPOO1-Laboratorio de Programacion Orientada a Objetos 1\prueba Git\GitBash\PruebaGit\bin\Debug\PruebaGit.pdb
