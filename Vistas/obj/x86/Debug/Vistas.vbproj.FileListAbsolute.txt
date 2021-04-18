@@ -1,0 +1,11 @@
+C:\PruebaGIT\GitBash\Vistas\bin\Debug\Vistas.exe
+C:\PruebaGIT\GitBash\Vistas\bin\Debug\Vistas.pdb
+C:\PruebaGIT\GitBash\Vistas\bin\Debug\Vistas.xml
+C:\PruebaGIT\GitBash\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PruebaGIT\GitBash\Vistas\obj\x86\Debug\Vistas.Resources.resources
+C:\PruebaGIT\GitBash\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\PruebaGIT\GitBash\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\PruebaGIT\GitBash\Vistas\obj\x86\Debug\Vistas.exe
+C:\PruebaGIT\GitBash\Vistas\obj\x86\Debug\Vistas.xml
+C:\PruebaGIT\GitBash\Vistas\obj\x86\Debug\Vistas.pdb
+C:\PruebaGIT\GitBash\Vistas\obj\x86\Debug\Vistas.Form1.resources
